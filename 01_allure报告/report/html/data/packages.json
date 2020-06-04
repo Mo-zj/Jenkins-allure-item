@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "scripts.test_allure",
+    "children" : [ {
+      "name" : "test_login1",
+      "uid" : "aaa5a7d28b81b8fa",
+      "parentUid" : "32487b23d33b69ba38e688c166bf4815",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591240175039,
+        "stop" : 1591240175040,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login2",
+      "uid" : "8bd4ce266e3f7315",
+      "parentUid" : "32487b23d33b69ba38e688c166bf4815",
+      "status" : "failed",
+      "time" : {
+        "start" : 1591240175042,
+        "stop" : 1591240175042,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.test_allure"
+  } ],
+  "name" : "packages"
+}
